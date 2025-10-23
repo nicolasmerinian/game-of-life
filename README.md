@@ -1,6 +1,7 @@
 # game-of-life
 
-![Alt text](/./gol - gif - github.gif?raw=true "GIF showing the rendering)
+![Alt text](/./gol-gif-github.gif?raw=true "GIF showing the rendering")
+
 
 ## Example of use
 
